@@ -1,13 +1,4 @@
-<div align="center">
-
-# SimpleBlog - A Blog Website
-
-SimpleBlog is a completely responsive personal blog website that is compatible with all mobile devices, has Dark and light themes, and is built using HTML, CSS, and JavaScript.
-
- <a href="https://codingstella.github.io/personal-blog-website/"><strong>➥ Live Demo</strong></a> 
- 
- </div>
-
-
+This repository is for WT GAP 2... 
+it usses HTML AND CSS for a fronted Webpage. 
 
 
